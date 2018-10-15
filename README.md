@@ -30,11 +30,11 @@ And a link to the other games created at the same location ...
 
 ## The Team
 
-*Programming* - Jon Worthington (me) and Jim Byer
-*Modeling & Texturing* - Nathan Worthington (17 years old)
-*Level Design* - Ryan Worthington (12 years old)
-*Music* - Tony Spencer
-*Sounds* - Cameron Byer
+- *Programming* - Jon Worthington (me) and Jim Byer
+- *Modeling & Texturing* - Nathan Worthington (17 years old)
+- *Level Design* - Ryan Worthington (12 years old)
+- *Music* - Tony Spencer
+- *Sounds* - Cameron Byer
 
 ## Free Assets
 
